@@ -1,8 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Redressed&family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&display=swap");
 
 body {
   background: linear-gradient(236.85deg, #eec2db 27.26%, #b2e7ee 96.03%);
-  font-family: "Roboto", sans-serif;
+  font-family: "Rajdhani", sans-serif;
 }
 
 .container {
